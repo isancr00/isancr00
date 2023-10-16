@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently studying Computer Science at Universidad de León.
+🔭 I’m a computer engenieer. Currently i'm studying the Cybersecurity Master at the "Universidad de León".
 
 🌱 I'm interested on Cybersecurity and Programming
 
